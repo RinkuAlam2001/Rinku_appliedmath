@@ -1,0 +1,25 @@
+<html> 
+   <head> 
+      <style type="text/css"> 
+         body { 
+            padding: 1in;  
+         } 
+         .square { 
+            background-color: rgb(149, 11, 11); 
+            width: 9cm; 
+            height: 7cm; 
+            border: 1px solid black; 
+         } 
+         img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+      </style> 
+   </head> 
+   <body> 
+     <center>
+          <div class="square"></div>
+     </center>
+        
+   </body> 
+</html>
